@@ -1,0 +1,39 @@
+# Site settings
+title: Justo Delgado Baudí
+email: contact@mrcdk.com
+url: http://mrcdk.com
+description: "Justo Delgado Baudí. Haxe Developer - Mobile Developer - Web Developer."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: AEBEBB #80B3FF
+  secondary: 153858 #FD6E8A
+  secondary-dark: 142642 #A2122F
+
+# Footer settings
+footer:
+  copyright: Justo Delgado Baudí
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jdbaudi
+  - title: github
+    url: http://github.com/mrcdk
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Úbeda (Jaén) Spain
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

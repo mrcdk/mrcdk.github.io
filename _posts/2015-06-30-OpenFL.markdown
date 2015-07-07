@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2015-06-30
+title: OpenFL
+img: openfl_logo.png
+alt: OpenFL
+project-date: June 2015
+client: OpenFL
+client_url: http://openfl.org
+category: Haxe Development
+description: <i>OpenFL</i> (Open Flash Library) is a fast, open-source implementation of the industry-standard Flash API. OpenFL uses <a href="http://www.haxe.org" target="_blank">Haxe</a> and implements hardware rendering. It compiles to Flash, HTML5 and native C++ targeting desktop, web, smartphones, smartTVs and consoles.
+my-work: My work in OpenFL is to build the next version with a better performance and an unified codebase for all targets moving the majority of the code from C++ to Haxe.
+---
